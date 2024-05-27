@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1095194517488",
+    "project_id": "authtuto-6b64f",
+    "storage_bucket": "authtuto-6b64f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095194517488:android:c890efafe9ed666b964735",
+        "android_client_info": {
+          "package_name": "com.example.google_signup"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzu5oYrqfV6uiw0MoosNnwFcO2-h5gYhM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
